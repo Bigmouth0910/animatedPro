@@ -1,8 +1,9 @@
 {
   "name": "3d-portfoio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://github.com/Bigmouth0910/animatedPro.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
